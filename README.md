@@ -87,7 +87,7 @@ Distance: Distance of the flight.
 
 Diverted: Flag indicating if the flight was diverted.
 
-flight id: Unique identifier for the flight.
+Flight ID: Unique identifier for the flight.
 
 Flight Num: Flight number.
 
