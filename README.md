@@ -106,3 +106,8 @@ Data Ingestion: Populate the dimension tables with relevant data (e.g., airport 
 Fact Table Population: Load flight data into the Fact Flights table, ensuring proper linkage to the dimension tables via foreign keys.
 
 Analysis: Perform queries and analysis on the fact table to derive insights into flight delays, cancellations, and other metrics.
+
+# Modeling
+
+
+![Model](https://github.com/Mohammed1999sstack/Airline-Delay/blob/main/ScreenShots/Modeling%20%26%20cleaning/Screenshot%202025-02-05%20102249.png)
